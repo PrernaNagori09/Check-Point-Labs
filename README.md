@@ -7,7 +7,7 @@ This is a supplement guide to getting started on **Accessing the hands-on Check 
 
 
 
-# Contents 
+# Getting Started with the Labs 
 
 * [Registration for the Labs](./technical_deep_dive/Registration-for-the-labs.md#registration-for-the-labs)
 * [Module 1: Registration for the Labs](./technical_deep_dive/Exercise-1-Registration-for-the-Labs.md#register-using-signup-link)
