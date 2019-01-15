@@ -3,11 +3,11 @@ Check Point CloudLabs
 
 # Introduction
 
-This is a supplement guide to getting started on **Accessing the hands-on Check Point Certification CCSA/CCSE** labs, using CloudLabs AI platform from Spektra Systems. 
+This is a supplement guide to getting started on **Accessing the hands-on Check Point Certification CCSA/CCSE** labs, using CloudLabs AI platform from **Spektra Systems**. 
 
 
 
-# Getting Started with the Labs 
+# Getting Started with the CCSA/CCSE Labs
 
 * [Registration for the Labs](./technical_deep_dive/Registration-for-the-labs.md#registration-for-the-labs)
 * [Module 1: Registration for the Labs](./technical_deep_dive/Exercise-1-Registration-for-the-Labs.md#register-using-signup-link)
